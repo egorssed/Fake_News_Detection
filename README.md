@@ -38,17 +38,17 @@ Yet specific features concerned in these correlations appear to have mostly disb
 To test whether significance is caused by disbalance we excluded people answered border values and estimated correlations again (Tab. 3). 
 For balanced dataset both overall Fake news score-related correlations became insignificant, therefore we can conclude that they are due to disbalance, 
 rather than natural impact of specific political leaning aspects.
-
+1022  x  228
 <figure>
   <figtitle>Original image and decoder fit result</figtitle>
-  <img src="./Images/Table 3.png" width="436" height="186">
+  <img src="./Images/Table3.png" width="436" height="100">
 </figure>
 
 #### Personality traits vs Fake News
 There is only one Personality trait significantly (P=.03) correlating with only one Fake News piece detection (Fig. 7).
 
 <figure>
-  <img src="./Images/Personality_FN.png" width="436" height="186">
+  <img src="./Images/Personality_FN.png" width="436" height="436">
   <figcaption>Fig. 7. Significant correlations between personality traits and Fake News performance detection. Only one significant correlation is present.</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ In this section, we got several significant and logically sensible correlations
 For instance, extroverts empathize more to mothers who don’t want to have a child, hence extroverts approve abortion.
 
 <figure>
-  <img src="./Images/Polit_vs_Personality.png" width="436" height="186">
+  <img src="./Images/Polit_vs_Personality.png" width="697" height="454">
   <figcaption>Fig. 8.Significant correlations between personality traits and answers and political leaning questions. 
   A positive answer to the question means that person approves the given act. 
   A positive political score means the person lean towards the centrist, rather than the left. Only one significant correlation is present.</figcaption>
@@ -72,14 +72,14 @@ we consider 95% confidence intervals to be sure in the sign.
 
 <figure>
   <figtitle>Statistics for significant linear coefficients</figtitle>
-  <img src="./Images/Table 4.png" width="436" height="186">
+  <img src="./Images/Table4.png" width="600" height="100">
 </figure>
 
 
 
 <figure>
   <figtitle>Scatter plots for Significant linear relations</figtitle>
-  <img src="./Images/reg_Polit_FN_Extrav_merged.png" width="436" height="186">
+  <img src="./Images/reg_Polit_FN_Extrav_merged.png" width="727" height="420">
   <figcaption>Fig. 9.
 Scatterplots showing the relation between Political Leaning score, 
 Fake News score and the only significant for linear regression Big 6 feature - extraversion
