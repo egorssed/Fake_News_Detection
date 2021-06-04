@@ -41,7 +41,7 @@ rather than natural impact of specific political leaning aspects.
 1022  x  228
 <figure>
   <figtitle>Original image and decoder fit result</figtitle>
-  <img src="./Images/Table3.png" width="436" height="100">
+  <img src="./Images/Table3.png" width="1022" height="228">
 </figure>
 
 #### Personality traits vs Fake News
@@ -72,7 +72,7 @@ we consider 95% confidence intervals to be sure in the sign.
 
 <figure>
   <figtitle>Statistics for significant linear coefficients</figtitle>
-  <img src="./Images/Table4.png" width="600" height="100">
+  <img src="./Images/Table4.png" width="1060" height="176">
 </figure>
 
 
