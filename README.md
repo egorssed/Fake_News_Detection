@@ -1,4 +1,4 @@
-# Fake_News_Detection
+# Fake News Detection
 
 ## Abstract
 
@@ -26,7 +26,7 @@ questions and all the pieces of news Fake detection performance.
 All significant correlations (P<.05) are presented are presented in Fig. 6.
 
 <figure>
-  <img src="./Images/FN_vs_Polit_correlation.png" width="436" height="186">
+  <img src="./Images/FN_vs_Polit_correlation.png" width="497" height="617">
   <figcaption>Fig. 6. Spearman rank correlations between answers on Political leaning questions and performance of different Fake News detection.</figcaption>
 </figure>
 
