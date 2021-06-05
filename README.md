@@ -143,6 +143,7 @@ possibility to extrapolate results found in this study on a more general sample 
     <td align="center"><a href="https://github.com/egorssed"><img src="https://avatars.githubusercontent.com/u/55103065?v=4" width="100px;" alt=""/><br /><sub><b>Egor Danilov</b></sub></a><br /><a href="https://github.com/egorssed" title="Github">💻</a></td>
     <td align="center"><a href="https://github.com/miloo42"><img src="https://avatars.githubusercontent.com/u/65649893?v=4" width="100px;" alt=""/><br /><sub><b>Milo Imbeni</b></sub></a><br /><a href="https://github.com/miloo42" title="Github">💻</a></td>
     <td align="center"><a href="https://github.com/riccardofradiani"><img src="https://avatars.githubusercontent.com/u/57222523?v=4" width="100px;" alt=""/><br /><sub><b>Riccardo Fradiani</b></sub></a><br /><a href="https://github.com/riccardofradiani" title="Github">💻</a></td>
+    <td align="center"><a href="https://github.com/changhc"><img src="https://avatars.githubusercontent.com/u/4591982?v=4" width="100px;" alt=""/><br /><sub><b>Huan-Cheng Chang</b></sub></a><br /><a href="https://github.com/changhc" title="Github">💻</a></td>
   </tr>
 </table>
 
