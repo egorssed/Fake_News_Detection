@@ -136,3 +136,13 @@ or specific Personality traits. The findings seem sensible however, they need to
 more vast sample of participants. Furthermore, variety of age, education level, and political leaning should also be extended to validate 
 possibility to extrapolate results found in this study on a more general sample of participants.
 
+## Contributors ✨
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/egorssed"><img src="https://avatars.githubusercontent.com/u/55103065?v=4" width="100px;" alt=""/><br /><sub><b>Egor Danilov</b></sub></a><br /><a href="https://github.com/egorssed" title="Github">💻</a></td>
+    <td align="center"><a href="https://github.com/miloo42"><img src="https://avatars.githubusercontent.com/u/65649893?v=4" width="100px;" alt=""/><br /><sub><b>Milo Imbeni</b></sub></a><br /><a href="https://github.com/miloo42" title="Github">💻</a></td>
+  </tr>
+</table>
+
+And others.
