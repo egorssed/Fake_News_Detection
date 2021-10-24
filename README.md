@@ -38,7 +38,6 @@ Yet specific features concerned in these correlations appear to have mostly disb
 To test whether significance is caused by disbalance we excluded people answered border values and estimated correlations again (Tab. 3). 
 For balanced dataset both overall Fake news score-related correlations became insignificant, therefore we can conclude that they are due to disbalance, 
 rather than natural impact of specific political leaning aspects.
-1022  x  228
 <figure>
   <figtitle>Original image and decoder fit result</figtitle>
   <img src="./Images/Table3.png" width="1022" height="228">
