@@ -71,7 +71,7 @@ we consider 95% confidence intervals to be sure in the sign.
 
 <figure>
   <figtitle>Statistics for significant linear coefficients</figtitle>
-  <img src="./Images/Table4.png" width="1060" height="176">
+  <img src="./Images/Table4.png" width="727" height="120">
 </figure>
 
 
@@ -106,7 +106,7 @@ In this section out hypothesis was “Fake news detection capabilities are not i
  to consume a higher number of news sources. It may improve their ability to resolve Fake News due to considering information coming from different sources. 
  Both of these explanations may work as they coincide with the findings of our study.
  
- ### Personality traits vs Fake News
+ ### Personality traits vs Political leaning
 
 In this section the hypothesis was drawn from Chirumbolo and Leone 2010, namely “Conscientiousness, agreeableness, and originality are typically found 
 to predict political criteria”. Unlikely, analysis of Spearman correlations confirmed only agreeableness to predict political criteria (R=-0.28, P=.02). 
