@@ -40,7 +40,7 @@ For balanced dataset both overall Fake news score-related correlations became in
 rather than natural impact of specific political leaning aspects.
 <figure>
   <figtitle>Original image and decoder fit result</figtitle>
-  <img src="./Images/Table3.png" width="1022" height="228">
+  <img src="./Images/Table3.png" width="727" height="162">
 </figure>
 
 #### Personality traits vs Fake News
